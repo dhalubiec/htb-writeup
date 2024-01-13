@@ -1,16 +1,3 @@
-
-<link rel="stylesheet" type="text/css" href="style.css">
-<style>
-body {
-    font-family: 'monospace', sans-serif;
-    font-size: 20px;
-}
-img {
-    display: block;
-    margin: auto;
-}
-</style>
-
 # HackTheBox Hostipal Writeup
 Writeup wykonany przez:
 - Wojciech Hajduk 252988
