@@ -453,7 +453,7 @@ hydra -l root -P /usr/share/wordlists/metasploit/unix_passwords.txt -t 6 ssh://1
 ```
 <img src="images/5.png" width="85%">
 
-W narzędziu `Wazuh` zaobserwowany próbę wykonania ataku:
+Narzędzie `Wazuh` wykryło próbę wykonania ataku:
 
 <img src="images/6.png" width="100%">
 
@@ -475,6 +475,10 @@ Invoke-AtomicTest T1056.002
 
 <img src="images/2.png" width="70%">
 
+Narzędzie `Wazuh` wykryło próbę wykonania ataku:
+
+<img src="images/7.png" width="100%">
+
 <div id='poc3'/>
 
 ## Firefox lasagne password dumping (SQL)
@@ -492,6 +496,12 @@ Invoke-AtomicTest T1555.003-6,8
 ```
 
 <img src="images/3.png" width="70%">
+
+Narzędzie `Wazuh` wykryło próbę wykonania ataku:
+
+<img src="images/8.png" width="100%">
+
+
 
 <div id='poc4'/>
 
